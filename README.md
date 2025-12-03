@@ -7,6 +7,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # IP ASSIGNMENT:
+<img width="1022" height="493" alt="exp 2 ip table" src="https://github.com/user-attachments/assets/6c4aa1aa-56f4-47df-8b3f-1aec37869348" />
 
 
 
